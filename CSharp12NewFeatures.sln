@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33626.354
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp12NewFeatures", ".\CSharp12NewFeatures\CSharp12NewFeatures.csproj", "{80585D3B-E64A-4F2B-B504-D8D79B2B16C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraProjectForDemoPurpose", ".\ExtraProjectForDemoPurpose\ExtraProjectForDemoPurpose.csproj", "{544502A5-C61F-43C8-91B0-BFDFEBC05F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80585D3B-E64A-4F2B-B504-D8D79B2B16C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80585D3B-E64A-4F2B-B504-D8D79B2B16C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80585D3B-E64A-4F2B-B504-D8D79B2B16C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80585D3B-E64A-4F2B-B504-D8D79B2B16C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544502A5-C61F-43C8-91B0-BFDFEBC05F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544502A5-C61F-43C8-91B0-BFDFEBC05F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544502A5-C61F-43C8-91B0-BFDFEBC05F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544502A5-C61F-43C8-91B0-BFDFEBC05F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5625B91F-FBE5-4E96-B9CC-D579804063FA}
+	EndGlobalSection
+EndGlobal

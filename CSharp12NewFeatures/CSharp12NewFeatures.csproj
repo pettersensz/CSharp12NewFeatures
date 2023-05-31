@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!--Enable -.net 8-->
+    <TargetFramework>net8.0</TargetFramework>
+    <!--<TargetFramework>net7.0</TargetFramework>-->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!--Enable preview (C#12) features-->
+    <LangVersion>preview</LangVersion>
+    <!--Set single output folder for artifacts-->
+    <!--<UseArtifactsOutput>true</UseArtifactsOutput>-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExtraProjectForDemoPurpose\ExtraProjectForDemoPurpose.csproj" />
+  </ItemGroup>
+
+</Project>
